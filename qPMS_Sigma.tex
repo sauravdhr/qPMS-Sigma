@@ -1,0 +1,55 @@
+\documentclass[12pt,notitlepage,oneside]{report}
+
+\usepackage{buetcseugthesis}
+
+% Uncomment any of the following lines should you need to
+% suppress the LOF, or LOT or LOA
+
+% \suppresslistoffigures 
+% \suppresslistoftables
+% \suppresslistofalgorithms
+
+% For index creation, comment this out if you do not want to create an
+% index
+\makeindex[intoc]
+
+\begin{document}
+
+% Edit as needed below this line
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Introduction
+\input{introduction.tex}
+
+% preliminaries
+\input{preliminaries.tex}
+
+% our work
+\input{OurWork.tex}
+
+% Citation examples
+%\input{citeexamples.tex}
+
+% Another chapter
+%\input{anotherchapter.tex}
+
+% Chapter showing example of index creation
+%\input{indexcreation.tex}
+
+% conclusion
+\input{conclusion.tex}
+
+% Bibliographies and appendices
+\input{bibliography.tex}
+
+% Index, comment this out if you do not want to create an index
+\printindex
+
+\appendix
+% Algorithms
+%\input{algorithms.tex}
+
+% Codes
+\input{codes.tex}
+
+\end{document}

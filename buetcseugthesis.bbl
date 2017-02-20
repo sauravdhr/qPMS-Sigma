@@ -1,0 +1,131 @@
+\begin{thebibliography}{10}
+
+\bibitem{akbar2006solving}
+M.~M. Akbar, M.~S. Rahman, M.~Kaykobad, E.~G. Manning, and G.~C. Shoja,
+  ``Solving the multidimensional multiple-choice knapsack problem by
+  constructing convex hulls,'' {\em Computers \& operations research}, vol.~33,
+  no.~5, pp.~1259--1273, 2006.
+
+\bibitem{karim2015comograd}
+R.~Karim, M.~M. Al~Aziz, S.~Shatabda, M.~S. Rahman, M.~A.~K. Mia, F.~Zaman, and
+  S.~Rakin, ``{CoMOGrad} and {PHOG}: From computer vision to fast and accurate
+  protein tertiary structure retrieval,'' {\em Scientific reports}, vol.~5,
+  2015.
+
+\bibitem{alam2012diversity}
+M.~S. Alam, M.~M. Islam, X.~Yao, and K.~Murase, ``Diversity guided evolutionary
+  programming: A novel approach for continuous optimization,'' {\em Applied
+  soft computing}, vol.~12, no.~6, pp.~1693--1707, 2012.
+
+\bibitem{kaykobad1987nonnegative}
+M.~Kaykobad, ``On nonnegative factorization of matrices,'' {\em Linear Algebra
+  and its applications}, vol.~96, pp.~27--33, 1987.
+
+\bibitem{kaykobad1985positive}
+M.~Kaykobad, ``Positive solutions of positive linear systems,'' {\em Linear
+  algebra and its applications}, vol.~64, pp.~133--140, 1985.
+
+\bibitem{kaykobad19983}
+M.~Kaykobad, M.~M. Islam, M.~E. Amyeen, and M.~M. Murshed, ``3 is a more
+  promising algorithmic parameter than 2,'' {\em Computers \& Mathematics with
+  Applications}, vol.~36, no.~6, pp.~19--24, 1998.
+
+\bibitem{MCNC}
+``The {MCNC} benchmark problems for {VLSI} floorplanning.''
+\newblock Last accessed on July 21, 2014, at 02:08:00PM. [Online]. Available:
+  https://www.mcnc.org/.
+
+\bibitem{guo2001floorplanning}
+P.-N. Guo, T.~Takahashi, C.-K. Cheng, and T.~Yoshimura, ``Floorplanning using a
+  tree representation,'' {\em Computer-Aided Design of Integrated Circuits and
+  Systems, {IEEE} Transactions on}, vol.~20, no.~2, pp.~281--289, 2001.
+
+\bibitem{holland1975as}
+J.~Holland, {\em Adaptation in Natural and Artificial Systems}.
+\newblock University of Michigan Press, 1975.
+
+\bibitem{aickelin2005artificial}
+U.~Aickelin and D.~Dasgupta, ``Artificial immune systems,'' in {\em Search
+  Methodologies}, pp.~375--399, Springer, 2005.
+
+\bibitem{al2010artificial}
+J.~R. Al-Enezi, M.~F. Abbod, and S.~A. Sharhan, ``Artificial immune
+  systems-models, algorithms and applications,'' {\em International Journal},
+  vol.~3, no.~2, 2010.
+
+\bibitem{faruque2016modelling}
+S.~A. Faruque, M.~A. Khatun, and M.~S. Rahman, ``Modelling direct marketing
+  campaign on social networks,'' {\em International Journal of Business
+  Information Systems}, vol.~22, no.~4, pp.~422--435, 2016.
+
+\bibitem{durocher2015graphs}
+S.~Durocher, D.~Mondal, and M.~S. Rahman, ``On graphs that are not {PCG}s,''
+  {\em Theoretical Computer Science}, vol.~571, pp.~78--87, 2015.
+
+\bibitem{rahman2016absent}
+M.~S. Rahman, A.~Alatabbi, T.~Athar, M.~Crochemore, and M.~S. Rahman, ``Absent
+  words and the (dis) similarity analysis of {DNA} sequences: an experimental
+  study,'' {\em BMC research notes}, vol.~9, no.~1, p.~1, 2016.
+
+\bibitem{hashem2013countering}
+T.~Hashem, L.~Kulik, and R.~Zhang, ``Countering overlapping rectangle privacy
+  attack for moving {kNN} queries,'' {\em Information Systems}, vol.~38, no.~3,
+  pp.~430--453, 2013.
+
+\bibitem{farhad2016mapping}
+S.~M. Farhad, M.~A. Nayeem, M.~K. Rahman, and M.~S. Rahman, ``Mapping stream
+  programs onto multicore platforms by local search and genetic algorithm,''
+  {\em Computer Languages, Systems \& Structures}, vol.~46, pp.~182--205, 2016.
+
+\bibitem{malek2016balanced}
+S.~M.~B. Malek, M.~M. Sadik, and A.~K.~M. Rahman, ``On balanced $k$-coverage in
+  visual sensor networks,'' {\em Journal of Network and Computer Applications},
+  vol.~72, pp.~72--86, 2016.
+
+\bibitem{bashir2016learning}
+G.~M.~M. Bashir, A.~S. M.~L. Hoque, and B.~C.~D. Nath, ``E-learning of {PHP}
+  based on the solutions of real-life problems,'' {\em Journal of Computers in
+  Education}, vol.~3, no.~1, pp.~105--129, 2016.
+
+\bibitem{uddin2014citizen}
+M.~Y.~S. Uddin and R.~Rafiq, ``Citizen assisted environmental pollution
+  measurement in developing cities,'' {\em International Journal of
+  Environmental Science and Development}, vol.~5, no.~1, p.~70, 2014.
+
+\bibitem{kamal2016boosting}
+A.~Kamal and M.~M. Islam, ``Boosting up the data hiding rate through multi
+  cycle embedment process,'' {\em Journal of Visual Communication and Image
+  Representation}, vol.~40, pp.~574--588, 2016.
+
+\bibitem{haque2013constructing}
+M.~E. Haque and A.~K.~M. Rahman, ``On constructing interference-aware $k$-fault
+  resistant topologies for wireless ad hoc networks.,'' {\em Ad Hoc \& Sensor
+  Wireless Networks}, vol.~19, no.~1-2, pp.~67--94, 2013.
+
+\bibitem{mukta2016identifying}
+M.~S.~H. Mukta, M.~E. Ali, and J.~Mahmud, ``Identifying and validating
+  personality traits-based homophilies for an egocentric network,'' {\em Social
+  Network Analysis and Mining}, vol.~6, no.~1, p.~74, 2016.
+
+\bibitem{ali2016spatial}
+M.~E. Ali, E.~Tanin, P.~Scheuermann, S.~Nutanong, and L.~Kulik, ``Spatial
+  consensus queries in a collaborative environment,'' {\em ACM Transactions on
+  Spatial Algorithms and Systems}, vol.~2, no.~1, p.~3, 2016.
+
+\bibitem{islam2009new}
+M.~M. Islam, M.~A. Sattar, M.~F. Amin, X.~Yao, and K.~Murase, ``A new
+  constructive algorithm for architectural and functional adaptation of
+  artificial neural networks,'' {\em IEEE Transactions on Systems, Man, and
+  Cybernetics, Part B (Cybernetics)}, vol.~39, no.~6, pp.~1590--1605, 2009.
+
+\bibitem{al2010stable}
+A.~A. Al~Islam, C.~S. Hyder, H.~Kabir, M.~Naznin, {\em et~al.}, ``Stable sensor
+  network (ssn): a dynamic clustering technique for maximizing stability in
+  wireless sensor networks,'' {\em Wireless sensor network}, vol.~2, no.~07,
+  p.~538, 2010.
+
+\bibitem{holton1993petersen}
+D.~A. Holton and J.~Sheehan, {\em The Petersen Graph}, vol.~7.
+\newblock Cambridge University Press, 1993.
+
+\end{thebibliography}

@@ -1,0 +1,11 @@
+% Do not change these lines
+\renewcommand{\abstractname}{\textbf{{\Large ABSTRACT}}}
+\addcontentsline{toc}{chapter}{\textbf{\normalsize{\emph{ABSTRACT}}}}
+
+% You need to change the text for abstract
+\begin{abstract}\thispagestyle{plain}
+Motif finding is an important step for the detection of rare events occurring in a set of DNA or protein sequences. Extraction of information about these rare events can lead to new biological discoveries. Motifs are some important patterns that have numerous applications including the identification of transcription factors and their binding sites, composite regulatory patterns, similarity between families of proteins, etc. Although several flavors of motif searching algorithms have been studied in the literature, we study the version known as $ (l, d) $-motif search or Planted Motif Search (PMS). In PMS, given two integers $ l $, $ d $ and $ n $ input sequences we try to find all the patterns of length $ l $ that appear in each of the $ n $ input sequences with at most $ d $ mismatches. We also discuss the quorum version of PMS in our work that finds motifs that are not planted in all the input sequences but at least in $ q $ of the sequences. Our algorithm is mainly based on the algorithms qPMSPrune, qPMS7, TraverStringRef and PMS8. We introduce some techniques to compress the input strings and make faster comparison between strings with bitwise operations. Our algorithm performs a little better than the existing exact algorithms to solve the qPMS problem in DNA sequence. We have also proposed an idea for parallel implementation of our algorithm.
+
+\end{abstract}
+
+\endinput

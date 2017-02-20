@@ -1,0 +1,1 @@
+qPMS Sigma - An Efficient and Exact Parallel Algorithm for the Planted $(l, d)$ Motif Search Problem
